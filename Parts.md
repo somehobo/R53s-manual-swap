@@ -22,7 +22,7 @@
 
 * coolant hoses manual car. it looks like a big mess of coolant lines. I got mine for about 110 off of ebay. pt #: 7518503
 
-# Bolts I bought and Used
+## Bolts I bought and Used
 
 *  2 hex bolts for master cylinder to pedals 07119902976, 2 nuts for them 07129905817
 
