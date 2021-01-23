@@ -18,7 +18,7 @@
 
 * shift lug and cables. Make sure you get the assembly with the white bottom cover, ive heard that the other one breaks. I got mine for about 120 on ebay. make sure to get a shift knob and boot as well.
 
-* all three engine/ tranny mounts. 22116763252,	22116754399, 22316754422. I also got [These inserts] (https://www.ecstuning.com/b-powerflex-parts/mini-gen-1-gearbox-mount-bushing-insert/pff5-122~pfx/) for the trans mount.
+* all three engine/ tranny mounts. 22116763252,	22116754399, 22316754422. I also got [These inserts](https://www.ecstuning.com/b-powerflex-parts/mini-gen-1-gearbox-mount-bushing-insert/pff5-122~pfx/) for the trans mount.
 
 * coolant hoses manual car. it looks like a big mess of coolant lines. I got mine for about 110 off of ebay. pt #: 7518503
 
