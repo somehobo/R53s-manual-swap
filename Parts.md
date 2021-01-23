@@ -31,3 +31,5 @@
 * 2 hex bolts for slave to tranny 07130782608
 
 * 9 bell housing to engine bolts 07131172101 (these are pretty pricey)
+
+* 1 slightly longer oil filter housing bolt 07137510823
