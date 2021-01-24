@@ -35,3 +35,13 @@
 * 9 bell housing to engine bolts 07131172101 (these are pretty pricey)
 
 * 1 slightly longer oil filter housing bolt 07137510823
+
+## Tools 
+
+* [hose clamp tool](https://www.autozone.com/wrenches-pliers-and-cutters/hose-clamp-pliers/oemtools-hose-clamp-pliers/607069_0_0?spps.s=3321&cmpid=LIA:US:EN:AD:NL:1000000:GEN:71700000069889792&gclid=CjwKCAiAr6-ABhAfEiwADO4sfUlc9vnQjBNkaWGMQN04-gX8AcB8aGWflYc4tLb0j5wcg1zejR6McRoCqYQQAvD_BwE&gclsrc=aw.ds) you wont regret it
+
+* Engine crane, i picked one up from harbor freight for 200
+
+* [load leveler] (https://www.harborfreight.com/2-ton-capacity-load-leveler-60659.html)
+
+* Fluid Transfer pump, for filling trans fluid.
