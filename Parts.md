@@ -14,7 +14,7 @@
 
 * clutch lines pt numbers: 21526756149, 21527509238(Make sure yours comes with the little L hardline on the end!!!), 21526774286, 21526759854.
 
-* master and slave cylinders:	21526774078, 21516777428. I got mine cheap from oriely. The OEM ones have plastic bleeders which can strip if you arent careful.
+* master and slave cylinders:	21526774078, 21516777428. I got mine cheap from orielys. The OEM ones have plastic bleeders which can strip if you arent careful.
 
 * shift lug and cables. Make sure you get the assembly with the white bottom cover, ive heard that the other one breaks. I got mine for about 120 on ebay. make sure to get a shift knob and boot as well.
 
