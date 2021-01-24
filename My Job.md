@@ -16,7 +16,7 @@ Front end service mode:
 ![front end is off](https://imgur.com/8TTfUcF)
 
 New fly wheel and clutch on:
-![clutch pic](https://imgur.com/Rv8SPJi)
+![clutch pic](https://i.imgur.com/Rv8SPJi.jpg)
 
 Storing overnight, stuffed against mr2, stripped a head bolt so had to drop the sub frame to get engine out:
 ![garage pic](https://imgur.com/sRtvIzC)
