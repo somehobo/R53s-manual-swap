@@ -42,6 +42,6 @@
 
 * Engine crane, i picked one up from harbor freight for 200
 
-* [load leveler] (https://www.harborfreight.com/2-ton-capacity-load-leveler-60659.html)
+* [load leveler](https://www.harborfreight.com/2-ton-capacity-load-leveler-60659.html)
 
 * Fluid Transfer pump, for filling trans fluid.
