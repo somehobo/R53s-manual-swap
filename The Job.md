@@ -32,6 +32,8 @@ With the engine out there is a number of things to do
 
 * Next hookup the last clutch line and the slave cylinder. I followed mod mini's [clutch bleeding video](https://www.youtube.com/watch?v=eoiXWFdSuDM&t=515s) then put tranny oil (can leak out of axle holes so put axles in first), oil, and coolant in.
 
-* Now time for NCSexpert and NCSdummy stuff.
+* Now time for NCSexpert and NCSdummy stuff: [video to understand the basics](https://www.youtube.com/watch?v=Aacf0CtAVz8). To recode your car for manual, what we did was read through each module using NCSexpert and NCSdummy looking for options that relate to the manual transmission, you will definitely notice them by name (ones asking what transmission is in it). Make sure to take out the option for the safe start clutch signal if you don't have a clutch sensor. Then you can export any modules you mess with. Make sure to hookup a battery charger so you don't lose connection with the DME and brick your car. Once that's done you should be clear to start it!
 
 * Now you can button all the way back up and take it for a test drive!
+
+* Still working on trying to get the reverse lights to work, I think it might have to do with the circular harness on the driver side of the car.
