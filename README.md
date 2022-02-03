@@ -1,4 +1,4 @@
-### Parts of the job
+# Parts of the job
 
 [The Parts you will need](Parts.md) <br>
 [The Job itself](The_Job.md) <br>
